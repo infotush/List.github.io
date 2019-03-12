@@ -1,0 +1,48 @@
+.shop{
+	font-size: 25px;
+	color: blue;
+
+}
+
+.title{
+	font-size: 50px;
+	color: Orange;
+	background-color: yellow;
+	letter-spacing: 5px;	
+}
+
+button{
+	border-radius: 5px;
+	background-color: orange;
+	height: 40px;
+	width: 80px;
+	border-color: orange;
+	color: blue;
+}
+
+input{
+	width: 12em;
+	height: 2em;
+	border-radius: 2px;
+	border-color: grey;
+}
+
+.done {
+  text-decoration: line-through;
+}
+
+
+
+.delete{
+	border-radius: 5px;
+	background-color: red;
+	height: 40px;
+	width: 80px;
+	border-color: red;
+	color: white;	
+	margin-left: 20px;
+}
+
+ul li{
+	margin-bottom: 20px;
+}
